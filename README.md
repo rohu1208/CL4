@@ -9,9 +9,26 @@ This repository contains the practical assignments for the **Computer Laboratory
 
 ## 📁 Folder Structure
 
+# 📁 CL4 Repository Structure
+
+```
 CL4/
-├── CL4-DL/ # Deep Learning Practicals
-└── CL4-BI/ # Business Intelligence Practicals
+├── DL/                             # Deep Learning Practicals
+│   ├── 1. MultiClass-CNN.ipynb
+│   ├── 2. RNN-LSTM.ipynb
+│   ├── 3. CNN-imageClassification.ipynb
+│   ├── 4. Housing-LinearReg.ipynb           # (Replacement of GAN)
+│   ├── 5. RNN-Sentiment in network graph.ipynb
+│   └── raw.txt
+
+├── BI/                             # Business Intelligence Practicals
+│   ├── 6. ETL.ipynb
+│   ├── 9. Data-Classification.ipynb
+│   ├── 10. Data-Clustering.ipynb
+│   ├── raw.txt
+│   └── sample.csv
+```
+
 
 ## 🧠 Deep Learning Practicals
 
